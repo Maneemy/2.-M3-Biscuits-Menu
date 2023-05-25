@@ -1,7 +1,7 @@
 .menu, .rodape{width: 80%; margin: auto; padding:20px; max-width: 500px; background-color:rgba(161, 139, 139, 0.527);}
 .rodape{text-align: center;}
 
-body  {background-image: url(/imgs/kobby-mendez-w0_w3N_hG00-unsplash.jpg); background-repeat: no-repeat; background-size: cover; color: rgb(111, 170, 16)); font-style: oblique;;}
+body  {background-image: url(/imgs/kobby-mendez-w0_w3N_hG00-unsplash.jpg); background-repeat: no-repeat; background-size:cover; background-position: center center; color: rgb(111, 170, 16)); font-style: oblique;}
 
 .doce {text-align: left; width: 75%; color: peru}
 
