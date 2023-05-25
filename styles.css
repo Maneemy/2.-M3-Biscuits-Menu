@@ -12,15 +12,15 @@ body  {background-image: url(/imgs/kobby-mendez-w0_w3N_hG00-unsplash.jpg); backg
 h1, h2, h3 {text-align: center; color: rgb(219, 231, 231); text-decoration:underline;}
 
 
-.funded {text-align: center; font-family:'Times New Roman', Times, serif; font-style: italic; font-size: 25px; color:rgb(241, 206, 7);}
+p.funded {text-align: center; font-family:'Times New Roman', Times, serif; font-style: italic; font-size: 25px; color:rgb(241, 206, 7); margin-top:-25px;}
 
-.logo {text-align: center; width: 175px;; height: 175px;; margin-left: auto; margin-right:auto; display: block; opacity:0.9; border-radius: 35%;}
+.logo {text-align: center; width: 175px; height: 175px;; margin-left: auto; margin-right:auto; display: block; opacity:0.9; border-radius: 35%;}
 
 .contacts {color: peru;}
 
 .logotipo {text-align: center; width: 150px; height: 150px; margin-left: auto; margin-right: auto;}
 
-.compname {color: brown; font-family:cursive; font-size:40px; text-decoration: none; font-weight: 700;}
+.compname {color: brown; font-family:cursive; font-size:40px; text-decoration: none; font-weight: 700; margin-top: 40px;}
 
 p.location {text-align:center; color:rgb(178, 231, 31); font-size: 20px; margin-top:5px;}
 
@@ -28,16 +28,19 @@ p.location {text-align:center; color:rgb(178, 231, 31); font-size: 20px; margin-
 
 .media{display: inline-block; text-align: center; margin-top: -20px;} 
 
-.socialnet{text-align: center; margin: auto;}
+.socialnet{text-align: center; margin: auto; font-size: 17px;}
 
 p.media{text-align: left;}
 img.media{text-align: right;}
 p.mediap {text-align: center;}
 
-.divider {height: 4px; background-color: chocolate ;}
+.divider {height: 6px; background-color: rgba(226, 120, 33, 0.747) ;}
 
-.note {font-size: 20px;}
+.note {font-size: 20px; color: darkgray; padding: auto;}
 
 .number p{ text-align: center; color:rgba(241, 206, 116, 0.986)}
 
+a:hover {color: coral;}
+a:visited{color: purple;}
+a {color: blue;}
 
