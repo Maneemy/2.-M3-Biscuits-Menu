@@ -1,0 +1,33 @@
+.menu, .rodape{width: 80%; margin: auto; padding:20px; max-width: 500px; background-color: white;}
+.rodape{text-align: center;}
+
+
+body  {background-color: burlywood}
+
+.doce {text-align: left; width: 75%;}
+
+.preco {text-align: right; width: 25%;}
+
+.artigo p {display: inline-block;}
+
+h1, h2, h3 {text-align: center;}
+
+.fund {text-align: center; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-style: italic;}
+
+.logo {text-align: center; width: 150px;; height: 150px;; margin-left: auto; margin-right:auto; display: block;}
+
+.media{display: inline-block;}
+
+.media p{text-align: left;}
+.media img{text-align: right;}
+
+.logotipo {text-align: center; width: 150px; height: 150px; margin-left: auto; margin-right: auto;}
+
+.compname {color: brown; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; font-style:oblique;} 
+
+.location {text-align: center; color:goldenrod; font-size: 20px;}
+
+.insta, .whatts {text-align: right; width: 25px; padding:10px;}
+
+.divider {height: 4px; background-color: coral ;}
+
