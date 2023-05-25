@@ -1,5 +1,5 @@
 .menu, .rodape{width: 80%; margin: auto; padding:20px; max-width: 500px; background-color:rgba(161, 139, 139, 0.527);}
-.rodape{text-align: center;}
+.rodape{text-align: center; margin-top: -50px;}
 
 body  {background-image: url(/imgs/kobby-mendez-w0_w3N_hG00-unsplash.jpg); background-repeat: no-repeat; background-size:cover; background-position: center center; color: rgb(111, 170, 16)); font-style: oblique;}
 
@@ -14,23 +14,30 @@ h1, h2, h3 {text-align: center; color: rgb(219, 231, 231); text-decoration:under
 
 .funded {text-align: center; font-family:'Times New Roman', Times, serif; font-style: italic; font-size: 25px; color:rgb(241, 206, 7);}
 
-.logo {text-align: center; width: 150px;; height: 150px;; margin-left: auto; margin-right:auto; display: block; opacity:0.9;}
+.logo {text-align: center; width: 175px;; height: 175px;; margin-left: auto; margin-right:auto; display: block; opacity:0.9; border-radius: 35%;}
 
-.media{display: inline-block;}
-
-.media p{text-align: left;}
-.media img{text-align: right;}
+.contacts {color: peru;}
 
 .logotipo {text-align: center; width: 150px; height: 150px; margin-left: auto; margin-right: auto;}
 
 .compname {color: brown; font-family:cursive; font-size:40px; text-decoration: none; font-weight: 700;}
 
-.location {text-align: center; color:goldenrod; font-size: 20px;}
+p.location {text-align:center; color:rgb(178, 231, 31); font-size: 20px; margin-top:5px;}
 
-.insta, .whatts {text-align: right; width: 25px; padding:10px;}
+.insta, .whatts {width: 40px; height: 40px; padding:10px; border-radius:15%; margin-left: auto; margin-right: auto;}
+
+.media{display: inline-block; text-align: center; margin-top: -20px;} 
+
+.socialnet{text-align: center; margin: auto;}
+
+p.media{text-align: left;}
+img.media{text-align: right;}
+p.mediap {text-align: center;}
 
 .divider {height: 4px; background-color: chocolate ;}
 
 .note {font-size: 20px;}
+
+.number p{ text-align: center; color:rgba(241, 206, 116, 0.986)}
 
 
