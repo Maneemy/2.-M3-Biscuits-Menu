@@ -1,20 +1,20 @@
-.menu, .rodape{width: 80%; margin: auto; padding:20px; max-width: 500px; background-color:}
+.menu, .rodape{width: 80%; margin: auto; padding:20px; max-width: 500px; background-color:rgba(161, 139, 139, 0.527);}
 .rodape{text-align: center;}
 
+body  {background-image: url(/imgs/kobby-mendez-w0_w3N_hG00-unsplash.jpg); background-repeat: no-repeat; background-size: cover; color: rgb(111, 170, 16)); font-style: oblique;;}
 
-body  {background-image: url(/imgs/kobby-mendez-w0_w3N_hG00-unsplash.jpg); background-repeat: no-repeat; background-size: cover; color: azure;}
+.doce {text-align: left; width: 75%; color: peru}
 
-.doce {text-align: left; width: 75%;}
+.preco {text-align: right; width: 25%; color: rgba(241, 206, 116, 0.986);}
 
-.preco {text-align: right; width: 25%;}
+.artigo p {display: inline-block; font-size: 20px;}
 
-.artigo p {display: inline-block;}
+h1, h2, h3 {text-align: center; color: rgb(219, 231, 231); text-decoration:underline;}
 
-h1, h2, h3 {text-align: center;}
 
-.fund {text-align: center; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-style: italic;}
+.funded {text-align: center; font-family:'Times New Roman', Times, serif; font-style: italic; font-size: 25px; color:rgb(241, 206, 7);}
 
-.logo {text-align: center; width: 150px;; height: 150px;; margin-left: auto; margin-right:auto; display: block;}
+.logo {text-align: center; width: 150px;; height: 150px;; margin-left: auto; margin-right:auto; display: block; opacity:0.9;}
 
 .media{display: inline-block;}
 
@@ -23,7 +23,7 @@ h1, h2, h3 {text-align: center;}
 
 .logotipo {text-align: center; width: 150px; height: 150px; margin-left: auto; margin-right: auto;}
 
-.compname {color: brown; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; font-style:oblique;} 
+.compname {color: brown; font-family:cursive; font-size:40px; text-decoration: none; font-weight: 700;}
 
 .location {text-align: center; color:goldenrod; font-size: 20px;}
 
@@ -31,5 +31,6 @@ h1, h2, h3 {text-align: center;}
 
 .divider {height: 4px; background-color: chocolate ;}
 
+.note {font-size: 20px;}
 
 
