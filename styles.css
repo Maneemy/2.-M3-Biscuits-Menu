@@ -12,17 +12,17 @@ body  {background-image: url(/imgs/kobby-mendez-w0_w3N_hG00-unsplash.jpg); backg
 h1, h2, h3 {text-align: center; color: rgb(219, 231, 231); text-decoration:underline;}
 
 
-p.funded {text-align: center; font-family:'Times New Roman', Times, serif; font-style: italic; font-size: 25px; color:rgb(241, 206, 7); margin-top:-25px;}
+p.funded {text-align: center; font-family:'Times New Roman', Times, serif; font-style: italic; font-size: 25px; color:rgb(241, 206, 7); margin-top:-20px;}
 
-.logo {text-align: center; width: 175px; height: 175px;; margin-left: auto; margin-right:auto; display: block; opacity:0.9; border-radius: 35%;}
+.logo {text-align: center; width: 175px; height: 175px;; margin-left: auto; margin-right:auto; display: block; opacity:0.9; border-radius: 35%; margin-bottom: 15px;}
 
 .contacts {color: peru;}
 
 .logotipo {text-align: center; width: 150px; height: 150px; margin-left: auto; margin-right: auto;}
 
-.compname {color: brown; font-family:cursive; font-size:40px; text-decoration: none; font-weight: 700; margin-top: 40px;}
+.compname {color: rgba(204, 106, 37, 0.774); font-family:Georgia, 'Times New Roman', Times, serif; font-size:40px; text-decoration: none; font-weight: 700; margin-top: 40px; box-shadow: 1px 1px 15px 0px rgba(223, 104, 20, 0.863);}
 
-p.location {text-align:center; color:rgb(178, 231, 31); font-size: 20px; margin-top:5px;}
+p.location {text-align:center; color:rgb(241, 206, 7); font-size: 20px; margin-top:5px;}
 
 .insta, .whatts {width: 40px; height: 40px; padding:10px; border-radius:15%; margin-left: auto; margin-right: auto;}
 
